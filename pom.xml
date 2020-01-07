@@ -24,10 +24,10 @@
       <configuration>
        <url>http://localhost:8090/manager/text</url>
        <server>TomcatServer</server>
-       <path>/practiceone</path>
+       <path>/practice-pipeline</path>
      </configuration>
     </plugin>
    </plugins>
-    <finalName>practice(ps1)</finalName>
+    <finalName>practice-pipeline)</finalName>
   </build>
 </project>
